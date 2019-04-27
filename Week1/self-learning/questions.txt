@@ -1,0 +1,38 @@
+1. Write a Python program to remove duplicates from a list
+
+2. Write a Python program to find the length of all words of a list
+
+3. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements.
+Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+Expected Output : ['Green', 'White', 'Black']
+
+4. Write a Python program to get the difference between the two lists.
+
+5. Write a Python program to find the index of an item in a specified list
+
+6. Write a Python program to append a list to the second list.
+
+7. Write a Python program to get unique values from a list
+
+8. Write a Python program to count the number of elements in a list within a specified range
+
+9. Write a Python program to check whether a list contains a sublist
+
+10. Write a Python program to remove an empty tuple(s) from a list of tuples.
+Sample data: [(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]
+Expected output: [('',), ('a', 'b'), ('a', 'b', 'c'), 'd']
+
+
+11) WAP to take input string from user and print the length of string
+
+12) Write a Python program to get a string made of the first 2 and the last 2 chars from a given a string.
+
+13) Write a Python program to get a single string from two given strings by user , separated by a space and swap the first two characters of each string.
+Sample String : 'abc', 'xyz'
+Expected Result : 'xyc abz'
+
+14) Write a Python program to change a given string to a new string where all the even position characters are in starting and all odd position characters are in end.
+
+15) Write a Python program to remove the characters which have odd index values of a given string
+
+16) WAP to insert a string in the middle of a other string.

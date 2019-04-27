@@ -1,0 +1,43 @@
+Write a Python program to count the number of even and odd numbers from a series of numbers.
+
+Write a Python program to create new user name and password. Ask password twice and check the validity of password input by user twice.
+
+o/p:
+======================================
+Enter user name : Sia
+Enter password : 123
+Confirm password: 321
+
+[ERROR] : PASSWORDS DO NOT MATCH
+=====================================
+
+WAP to ask user the month of year and print the season (winter,summer,Monsoon,spring)
+
+###################################################################
+
+Write a Python script to ask a key and value from user and add it to a dictionary.
+
+Write a Python script to concatenate following dictionaries to create a new one
+dic1={'a':101, 'b':201} 
+dic2={'c':301, 'd':401} 
+dic3={'e':501,'f':601}
+
+Write a Python script to check if a given key already exists in a dictionary
+
+WAP tp print all the keys of dict
+
+WAP to print TRUE or FALSE based on if key given by user exists in precreated dict
+
+Write a Python program to sum all the values in a dictionary
+
+Write a Python program to remove a key from a dictionary. 
+
+Write a Python program to get the maximum and minimum value in a dictionary
+
+Write a Python program to remove duplicate values from Dictionary
+
+Write a Python program to check a dictionary is empty or not and TRUE or FALSE
+
+Write a Python program to print all unique values in a dictionary
+
+Write a Python program to find the highest 3 values in a dictionary

@@ -1,0 +1,18 @@
+WAP to 
+Enter your choice
+1) Enter information
+2) Query Information
+3) Exit
+
+Input Marks number
+
+and print 
+---------------------------------
+
+8
+[ERROR] : INVALID CHOICE
+1
+Enter Student Name
+Clas
+Section
+ROll Number
