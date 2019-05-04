@@ -1,0 +1,143 @@
+Assignments on File Handling
+------------------------------
+
+1) Wap to accept a file name and directory name from user and create a backup of this file in same directory
+
+2) Wap to accept directory name from user and remove all the empty files, from that directory. (os.path.getsize)
+
+3) Wap to find out total no of lines total no of words total no of characters in file
+
+4) Wap to convert the content of files in reverse order.
+
+5) Wap to convert each n every word in upper case in file
+
+6) Find count of each and every word in file
+
+7) Wap to read csv file which contain following columns emp id, emp name, empsal, empdept
+
+a) Find out the avg salary of ITdept
+
+8)Wap to accept directory name from user and remove if it is modify 30days older and if size is 100kb(use fun m10)
+
+9)Wap to find out count of all the python files in any specific directory and subdirectory
+
+Assignments on File Handling
+------------------------------
+
+1) Wap to accept a file name and directory name from user and create a backup of this file in same directory
+
+2) Wap to accept directory name from user and remove all the empty files, from that directory.
+
+3) Wap to find out total no of lines total no of words total no of characters in file
+
+4) Wap to convert the content of files in reverse order.
+
+5) Wap to convert each n every word in upper case in file
+
+6) Find count of each and every word in file
+
+7) Wap to read csv file which contain following columns emp id, emp name, empsal, empdept
+
+a) Find out the avg salary of ITdept
+
+8)Wap to find out count of all the python files in any specific directory and subdirectory
+
+
+(1) Write a Python program to find a missing number from a list.  
+Input : [1,2,3,4,6,7,8]
+Output : 5
+
+(2) Write a Python program to find missing numbers from a list. 
+Input : [1,2,3,4,6,7,10]
+Output : [5, 8, 9]
+
+(3) Write a Python program to add the digits of a positive integer repeatedly until the result has a single digit. 
+Input : 48
+Output : 3
+For example given number is 59, the result will be 5.
+Step 1: 5 + 9 = 14
+Step 1: 1 + 4 = 5
+
+(4) Write a Python program to check a sequence of numbers is an arithmetic progression or not. 
+Input : [5, 7, 9, 11]
+Output : True
+In mathematics, an arithmetic progression or arithmetic sequence is a sequence of numbers such that the difference between the consecutive terms is constant.
+For example, the sequence 5, 7, 9, 11, 13, 15 ... is an arithmetic progression with common difference of 2.
+
+(5) Write a Python program to push all zeros to the end of a list. 
+Input : [0,2,3,4,6,7,10]
+Output : [2, 3, 4, 6, 7, 10, 0]
+
+(6) Write a Python program to find the length of the last word. 
+Input : Python Exercises
+Output : 9
+
+(7) Write a Python program to swap comma and dot in a string. 
+Sample string: "32.054,23"
+Expected Output: "32,054.23"
+
+(8) Write a Python program to count occurrences of a substring in a string.
+
+(9) Write a Python program to check if all dictionaries in a list are empty or not. 
+Sample list : [{},{},{}]
+Return value : True
+Sample list : [{1,2},{},{}]
+Return value : False
+
+(10) Write a Python program to remove duplicates from a list of lists. 
+Sample list : [[10, 20], [40], [30, 56, 25], [10, 20], [33], [40]]
+New List : [[10, 20], [30, 56, 25], [33], [40]]
+
+(11) Write a Python program to find the list in a list of lists whose sum of elements is the highest. 
+Sample lists: [1,2,3], [4,5,6], [10,11,12], [7,8,9]
+Expected Output: [10, 11, 12]
+
+(12) Write a Python program to insert a given string at the beginning of all items in a list. 
+Sample list : [1,2,3,4], string : emp
+Expected output : ['emp1', 'emp2', 'emp3', 'emp4']
+
+(13) Write a Python program to match key values in two dictionaries. 
+Sample dictionary: {'key1': 1, 'key2': 3, 'key3': 2}, {'key1': 1, 'key2': 2}
+Expected output: key1: 1 is present in both x and y
+
+(14) Write a Python program to remove spaces from dictionary keys
+
+(15) Write a Python program to construct the following pattern, using a nested loop number. 
+Expected Output:
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+
+(16) Write a Python program to display astrological sign for given date of birth. 
+Expected Output:
+Input birthday: 15                                                      
+Input month of birth (e.g. march, july etc): may                        
+Your Astrological sign is : Taurus 
+
+(17) Write a Python program to count the frequency of words in a file
+(18) Write a python program to find the longest word IN FILE	
+(19) Write a Python program to read last n lines of a file.
+
+Write a Python program to accept a filename from the user and print the extension of that.
+Sample filename : abc.java 
+Output : java
+
+Write a Python program which accepts the radius of a circle from the user and compute the area
+
+write python program to display unique no from the the comma-separated numbers given by user
+
+Write a Python program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers
+
+Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them
+
+Write a Python program to get the volume of a sphere with radius 6.
+
+Write a Python program to print all even numbers from a given range
+
+Write a Python program to swap two variables without using third variables
